@@ -10,6 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhi-bhor&label=Profile%20views&color=0e75b6&style=flat" alt="surbhi-bhor" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🛒 Currently supporting the BI initiative for cross-banner grocery analytics at Whole Foods Market / Amazon, delivering data-driven insights to enhance decision-making
 
 - 🔭 Graduated with **Master's in Information Management from University of Illinois Urbana Champaign** - May 2024
@@ -19,8 +20,6 @@
 - 👯 I’m looking for opportunities in **Data engineering & analytics**
 
 - 🤝 I’m looking for guidance with **navigating this dynamic field of data**
-
-- 💬 Ask me about **Data Engineering & API Automation**
 
 - 📫 How to reach me **work.surbhibhor@gmail.com**
 
