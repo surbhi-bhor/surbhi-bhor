@@ -1,35 +1,84 @@
+<p align="center">
+  <img src="assets/header.gif" alt="Hi, I'm Surbhi Bhor. Data Engineer and BI Engineer, open to opportunities." width="100%">
+</p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif" alt="MasterHead">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=Pipelines+%E2%86%92+Warehouses+%E2%86%92+Dashboards;Spark+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Redshift+%C2%B7+Synapse;Open+to+opportunities+worldwide" alt="Pipelines to warehouses to dashboards. Open to opportunities worldwide.">
 </p>
 
-<h1 align="center">Hi 👋, I'm Surbhi Bhor</h1>
-<h3 align="center">Data Enthusiast and Aspiring Data Engineer: Seeking Opportunities in Data Engineering and Analytics | Based in Austin, Texas</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<p align="center">
+  <a href="https://linkedin.com/in/surbhi-bhor"><img src="https://img.shields.io/badge/LinkedIn-surbhi--bhor-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:surbhi.bhor.in@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%7C%20BI%20Engineer-22C55E?style=for-the-badge" alt="Open to work: Data and BI Engineer">
+  <img src="https://komarev.com/ghpvc/?username=surbhi-bhor&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Profile views">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhi-bhor&label=Profile%20views&color=0e75b6&style=flat" alt="surbhi-bhor" /> </p>
+<img align="right" alt="Animated BI dashboard" width="340" src="assets/dashboard.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About me
 
-- 🛒 Currently supporting the BI initiative for cross-banner grocery analytics at Whole Foods Market / Amazon, delivering data-driven insights to enhance decision-making
+- 🔭 I build **data pipelines, cloud warehouses, and BI dashboards** on AWS and Azure
 
-- 🔭 Graduated with **Master's in Information Management from University of Illinois Urbana Champaign** - May 2024
+- 🛒 Experience across **Amazon Grocery (Whole Foods Market), BCG, and Capgemini**
 
-- 🌱 I’m currently learning **Spark, Hadoop, AWS & Azure Data engineering services**
+- 🎓 **MS in Information Management**, University of Illinois Urbana-Champaign
 
-- 👯 I’m looking for opportunities in **Data engineering & analytics**
+- 📍 Based in **India**
 
-- 🤝 I’m looking for guidance with **navigating this dynamic field of data**
+- 💼 Open to **Data Engineer and BI Engineer roles worldwide**
 
-- 📫 How to reach me **work.surbhibhor@gmail.com**
+- 📫 Reach me at **surbhi.bhor.in@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<br clear="both">
+
+### 🛠️ Tech stack
+
 <p align="left">
-<a href="https://linkedin.com/in/surbhi-bhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surbhi-bhor" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" alt="dbt">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge" alt="Amazon Redshift">
+  <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge" alt="AWS Glue">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure">
+  <img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge" alt="Azure Data Factory">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI">
+  <img src="https://img.shields.io/badge/QuickSight-2E73B8?style=for-the-badge" alt="Amazon QuickSight">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### ✨ Featured projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surbhi-bhor&show_icons=true&locale=en&layout=compact" alt="surbhi-bhor" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏟️ <a href="https://github.com/surbhi-bhor/StadiumsETL">StadiumsETL</a></h4>
+      <p>Airflow pipeline that pulls stadium data from Wikipedia into Azure Data Lake Gen2, then through Data Factory and Synapse Analytics to a Tableau dashboard.</p>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://github.com/surbhi-bhor/instacart-market-basket-analysis">Instacart Market Basket Analysis</a></h4>
+      <p>Star-schema model and exploratory analysis of customer behavior and product performance, visualized in a Tableau dashboard.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau">
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=110&section=footer" alt="" width="100%">
+</p>
