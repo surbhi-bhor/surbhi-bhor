@@ -65,6 +65,19 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/surbhi-bhor/content-intelligence">Personal Content Intelligence Pipeline</a></h4>
+      <p>Self-hosted data platform that unifies personal movie, TV, and book history into weekly recommendations and a plain-English Q&amp;A assistant. Dagster ingests four APIs into Postgres, dbt builds a tested dimensional warehouse (80 tests), and local Ollama models pick titles and write SQL for questions, with every output validated against the data. Ships with Metabase dashboards, failure alerts, daily backups, and CI. No paid APIs, no cloud LLM.</p>
+      <img src="https://img.shields.io/badge/Dagster-BFD9EA?style=flat-square" alt="Dagster">
+      <img src="https://img.shields.io/badge/dbt-BFD9EA?style=flat-square" alt="dbt">
+      <img src="https://img.shields.io/badge/PostgreSQL-BFD9EA?style=flat-square" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Ollama-BFD9EA?style=flat-square" alt="Ollama">
+      <img src="https://img.shields.io/badge/Flask-BFD9EA?style=flat-square" alt="Flask">
+      <img src="https://img.shields.io/badge/Metabase-BFD9EA?style=flat-square" alt="Metabase">
+      <img src="https://img.shields.io/badge/Docker-BFD9EA?style=flat-square" alt="Docker">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/StadiumsETL">StadiumsETL</a></h4>
       <p>Airflow pipeline that pulls stadium data from Wikipedia into Azure Data Lake Gen2, then through Data Factory and Synapse Analytics to a Tableau dashboard.</p>
