@@ -78,6 +78,17 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h4><a href="https://github.com/surbhi-bhor/learnloop-skill">LearnLoop</a></h4>
+      <p>Agent Skill that turns an AI learning chat into a full Notion study note with one command: "log this in notion". It records where the learner got stuck (confirmed, never guessed), adds a diagram, flashcards, interview questions and a drill, schedules spaced review, and notices when an old doubt comes back so it asks a recall question before explaining again. A Python scorer flags struggle from the chat, and scripted behavior evals check the output. Cuts note-making from about 60-90 minutes per topic to about 6.</p>
+      <img src="https://img.shields.io/badge/Agent%20Skills-BFD9EA?style=flat-square" alt="Agent Skills">
+      <img src="https://img.shields.io/badge/Claude-BFD9EA?style=flat-square" alt="Claude">
+      <img src="https://img.shields.io/badge/Notion%20MCP-BFD9EA?style=flat-square" alt="Notion MCP">
+      <img src="https://img.shields.io/badge/Python-BFD9EA?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/Mermaid-BFD9EA?style=flat-square" alt="Mermaid">
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/StadiumsETL">StadiumsETL</a></h4>
       <p>Airflow pipeline that pulls stadium data from Wikipedia into Azure Data Lake Gen2, then through Data Factory and Synapse Analytics to a Tableau dashboard.</p>
