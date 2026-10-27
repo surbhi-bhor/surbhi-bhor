@@ -141,13 +141,6 @@
   </tr>
 </table>
 
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surbhi-bhor/surbhi-bhor/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/surbhi-bhor/surbhi-bhor/output/github-snake.svg" alt="Contribution graph with a snake eating the squares">
-</picture>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1430,100:8F3E57&height=110&section=footer" alt="" width="100%">
 </p>
