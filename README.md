@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8F3E57&center=true&vCenter=true&width=620&lines=Data+Engineer+%7C+BI+Engineer;Pipelines%2C+warehouses+and+dashboards;Spark+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+AWS+%C2%B7+Azure;Building+AI+tools+that+help+people+learn" alt="Data Engineer and BI Engineer. Pipelines, warehouses and dashboards. Spark, Airflow, dbt, AWS, Azure. Building AI tools that help people learn.">
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/surbhi-bhor"><img src="https://img.shields.io/badge/LinkedIn-surbhi--bhor-E6B43C?style=for-the-badge&labelColor=6A1430" alt="LinkedIn: surbhi-bhor"></a>
   <a href="mailto:work.surbhibhor@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-E6B43C?style=for-the-badge&labelColor=6A1430" alt="Email: say hello"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%7C%20BI%20Engineer-BFD9EA?style=for-the-badge&labelColor=6A1430" alt="Open to work: Data and BI Engineer">
@@ -67,6 +71,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/content-intelligence">Personal Content Intelligence Pipeline</a></h4>
+      <a href="https://github.com/surbhi-bhor/content-intelligence/stargazers"><img src="https://img.shields.io/github/stars/surbhi-bhor/content-intelligence?style=flat-square&color=E6B43C&labelColor=6A1430" alt="GitHub stars"></a> <img src="https://img.shields.io/github/last-commit/surbhi-bhor/content-intelligence?style=flat-square&color=BFD9EA&labelColor=6A1430&label=updated" alt="Last commit">
       <p>Self-hosted data platform that unifies personal movie, TV, and book history into weekly recommendations and a plain-English Q&amp;A assistant. Dagster ingests four APIs into Postgres, dbt builds a tested dimensional warehouse (80 tests), and local Ollama models pick titles and write SQL for questions, with every output validated against the data. Ships with Metabase dashboards, failure alerts, daily backups, and CI. No paid APIs, no cloud LLM.</p>
       <img src="https://img.shields.io/badge/Dagster-BFD9EA?style=flat-square" alt="Dagster">
       <img src="https://img.shields.io/badge/dbt-BFD9EA?style=flat-square" alt="dbt">
@@ -80,6 +85,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/learnloop-skill">LearnLoop</a></h4>
+      <a href="https://github.com/surbhi-bhor/learnloop-skill/stargazers"><img src="https://img.shields.io/github/stars/surbhi-bhor/learnloop-skill?style=flat-square&color=E6B43C&labelColor=6A1430" alt="GitHub stars"></a> <img src="https://img.shields.io/github/last-commit/surbhi-bhor/learnloop-skill?style=flat-square&color=BFD9EA&labelColor=6A1430&label=updated" alt="Last commit">
       <p>Agent Skill that turns an AI learning chat into a full Notion study note with one command: "log this in notion". It records where the learner got stuck (confirmed, never guessed), adds a diagram, flashcards, interview questions and a drill, schedules spaced review, and notices when an old doubt comes back so it asks a recall question before explaining again. A Python scorer flags struggle from the chat, and scripted behavior evals check the output. Cuts note-making from about 60-90 minutes per topic to about 6.</p>
       <img src="https://img.shields.io/badge/Agent%20Skills-BFD9EA?style=flat-square" alt="Agent Skills">
       <img src="https://img.shields.io/badge/Claude-BFD9EA?style=flat-square" alt="Claude">
@@ -91,6 +97,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/StadiumsETL">StadiumsETL</a></h4>
+      <a href="https://github.com/surbhi-bhor/StadiumsETL/stargazers"><img src="https://img.shields.io/github/stars/surbhi-bhor/StadiumsETL?style=flat-square&color=E6B43C&labelColor=6A1430" alt="GitHub stars"></a> <img src="https://img.shields.io/github/last-commit/surbhi-bhor/StadiumsETL?style=flat-square&color=BFD9EA&labelColor=6A1430&label=updated" alt="Last commit">
       <p>Airflow pipeline that pulls stadium data from Wikipedia into Azure Data Lake Gen2, then through Data Factory and Synapse Analytics to a Tableau dashboard.</p>
       <img src="https://img.shields.io/badge/Airflow-BFD9EA?style=flat-square" alt="Airflow">
       <img src="https://img.shields.io/badge/Azure-BFD9EA?style=flat-square" alt="Azure">
@@ -98,6 +105,7 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/surbhi-bhor/instacart-market-basket-analysis">Instacart Market Basket Analysis</a></h4>
+      <a href="https://github.com/surbhi-bhor/instacart-market-basket-analysis/stargazers"><img src="https://img.shields.io/github/stars/surbhi-bhor/instacart-market-basket-analysis?style=flat-square&color=E6B43C&labelColor=6A1430" alt="GitHub stars"></a> <img src="https://img.shields.io/github/last-commit/surbhi-bhor/instacart-market-basket-analysis?style=flat-square&color=BFD9EA&labelColor=6A1430&label=updated" alt="Last commit">
       <p>Star-schema model and exploratory analysis of customer behavior and product performance, visualized in a Tableau dashboard.</p>
       <img src="https://img.shields.io/badge/Python-BFD9EA?style=flat-square" alt="Python">
       <img src="https://img.shields.io/badge/Pandas-BFD9EA?style=flat-square" alt="Pandas">
@@ -105,6 +113,13 @@
     </td>
   </tr>
 </table>
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surbhi-bhor/surbhi-bhor/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/surbhi-bhor/surbhi-bhor/output/github-snake.svg" alt="Contribution graph with a snake eating the squares">
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1430,100:8F3E57&height=110&section=footer" alt="" width="100%">
