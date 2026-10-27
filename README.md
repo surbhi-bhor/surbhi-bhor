@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%7C%20BI%20Engineer-BFD9EA?style=for-the-badge&labelColor=6A1430" alt="Open to work: Data and BI Engineer">
 </p>
 
-<img align="right" alt="A daily pipeline run: extract, transform, load, serve" width="340" src="dashboard.gif">
-
 ## 👋 About me
+
+<img align="right" alt="A daily pipeline run: extract, transform, load, serve" width="340" src="dashboard.gif">
 
 > *I turn raw, messy data into pipelines, warehouses, and dashboards that people can trust.*
 
