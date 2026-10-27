@@ -12,26 +12,31 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-Data%20%7C%20BI%20Engineer-BFD9EA?style=for-the-badge&labelColor=6A1430" alt="Open to work: Data and BI Engineer">
 </p>
 
-<br>
+<img align="right" alt="A daily pipeline run: extract, transform, load, serve" width="340" src="dashboard.gif">
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>Hi, I'm Surbhi 👋</h3>
-      <p><em>I turn raw, messy data into pipelines, warehouses, and dashboards that people can trust.</em></p>
-      <p>I build end-to-end data platforms: raw ingestion, Spark transformations, star-schema warehouses, and the dashboards decisions run on. I geek out on dimensional modeling, Spark tuning, and shaving minutes off slow queries.</p>
-      <p>
-        🏢 <b>Built at</b> Amazon Grocery (Whole Foods Market), BCG, Capgemini<br>
-        🎓 <b>Studied</b> MS Information Management, UIUC (2024)<br>
-        🌱 <b>Now</b> shipping hands-on data engineering, BI and AI projects<br>
-        🎯 <b>Looking for</b> Data Engineer and BI Engineer roles, India or worldwide
-      </p>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <img src="dashboard.gif" alt="A daily pipeline run: extract, transform, load, serve" width="100%">
-    </td>
-  </tr>
-</table>
+## 👋 About me
+
+> *I turn raw, messy data into pipelines, warehouses, and dashboards that people can trust.*
+
+- 🔭 **What I build:** end-to-end data platforms, from raw ingestion and Spark transformations to star-schema warehouses and the dashboards decisions run on
+
+- 🏢 **Where I've built it:** Amazon Grocery (Whole Foods Market), BCG, and Capgemini
+
+- ☁️ **My toolbox:** AWS (Redshift, Glue, Lambda, S3, QuickSight), Azure (Synapse, Data Factory, Data Lake Gen2), Spark, Airflow, dbt, Tableau, and Power BI
+
+- 🤖 **How I work:** AI-assisted data engineering, pairing with agentic coding tools (Cursor, Claude, GitHub Copilot) to design and build pipelines, refactor transformations, map lineage out of legacy SQL, and triage incidents faster
+
+- ⚡ **What I geek out on:** dimensional modeling, Spark tuning, and shaving minutes off slow queries
+
+- 🌱 **Right now:** shipping hands-on data engineering and BI projects during this transition period to keep my skills sharp
+
+- 🎓 **Education:** Master's in Information Management, University of Illinois Urbana-Champaign (May 2024)
+
+- 🎯 **Looking for:** Data Engineer and BI Engineer roles, based in India and open to opportunities worldwide
+
+- 📫 **Reach me:** work.surbhibhor@gmail.com
+
+<br clear="both">
 
 ## 🚀 Featured projects
 
@@ -135,10 +140,6 @@
     </td>
   </tr>
 </table>
-
-## 🤖 How I work
-
-I pair with agentic coding tools to design and build pipelines, refactor transformations, map lineage out of legacy SQL, and triage incidents faster.
 
 ## 🐍 Contributions
 
