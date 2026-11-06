@@ -43,6 +43,20 @@
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <h3>📊 <a href="https://github.com/surbhi-bhor/content-intelligence">Personal Content Intelligence Pipeline</a></h3>
+      <p>Self-hosted data platform that unifies personal movie, TV, and book history into weekly recommendations and a plain-English Q&amp;A assistant. Dagster ingests four APIs into Postgres, dbt builds a tested dimensional warehouse (80 tests), and local Ollama models pick titles and write SQL for questions, with every output validated against the data. Ships with Metabase dashboards, failure alerts, daily backups, and CI. No paid APIs, no cloud LLM.</p>
+      <img src="https://img.shields.io/badge/Dagster-BFD9EA?style=flat-square" alt="Dagster">
+      <img src="https://img.shields.io/badge/dbt-BFD9EA?style=flat-square" alt="dbt">
+      <img src="https://img.shields.io/badge/PostgreSQL-BFD9EA?style=flat-square" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Ollama-BFD9EA?style=flat-square" alt="Ollama">
+      <img src="https://img.shields.io/badge/Flask-BFD9EA?style=flat-square" alt="Flask">
+      <img src="https://img.shields.io/badge/Metabase-BFD9EA?style=flat-square" alt="Metabase">
+      <img src="https://img.shields.io/badge/Docker-BFD9EA?style=flat-square" alt="Docker">
+      <br><sub><a href="https://github.com/surbhi-bhor/content-intelligence/blob/main/docs/case-study.md">Read the case study →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>📚 <a href="https://github.com/surbhi-bhor/reading-library">Reading Library</a></h3>
       <p>Public website of everything I have read, built to feel like a real library with wooden shelves. Underneath is a small BI project: a Python extract pulls books from Hardcover, articles from Raindrop, visitor recommendations from Supabase and metadata from Open Library; dbt on DuckDB models them into a star schema with one row per finished read, and 18 metrics are each defined once in their own model so every number on the site comes from the same table. GitHub Actions rebuilds and tests it every Friday and deploys to Vercel only when all tests pass.</p>
       <img src="https://img.shields.io/badge/dbt-BFD9EA?style=flat-square" alt="dbt">
@@ -53,19 +67,6 @@
       <img src="https://img.shields.io/badge/GitHub%20Actions-BFD9EA?style=flat-square" alt="GitHub Actions">
       <img src="https://img.shields.io/badge/Vercel-BFD9EA?style=flat-square" alt="Vercel">
       <br><sub><a href="https://reading-room-shelf.vercel.app">Visit the library →</a> · <a href="https://github.com/surbhi-bhor/reading-library/blob/main/docs/case-study.md">Read the case study →</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📊 <a href="https://github.com/surbhi-bhor/content-intelligence">Personal Content Intelligence Pipeline</a></h3>
-      <p>Self-hosted data platform that unifies personal movie, TV, and book history into weekly recommendations and a plain-English Q&amp;A assistant. Dagster ingests four APIs into Postgres, dbt builds a tested dimensional warehouse (80 tests), and local Ollama models pick titles and write SQL for questions, with every output validated against the data. Ships with Metabase dashboards, failure alerts, daily backups, and CI. No paid APIs, no cloud LLM.</p>
-      <img src="https://img.shields.io/badge/Dagster-BFD9EA?style=flat-square" alt="Dagster">
-      <img src="https://img.shields.io/badge/dbt-BFD9EA?style=flat-square" alt="dbt">
-      <img src="https://img.shields.io/badge/PostgreSQL-BFD9EA?style=flat-square" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Ollama-BFD9EA?style=flat-square" alt="Ollama">
-      <img src="https://img.shields.io/badge/Flask-BFD9EA?style=flat-square" alt="Flask">
-      <img src="https://img.shields.io/badge/Metabase-BFD9EA?style=flat-square" alt="Metabase">
-      <img src="https://img.shields.io/badge/Docker-BFD9EA?style=flat-square" alt="Docker">
     </td>
   </tr>
   <tr>
