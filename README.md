@@ -81,22 +81,6 @@
       <br><sub><a href="https://github.com/surbhi-bhor/learnloop-skill/blob/main/docs/CASE-STUDY.md">Read the case study →</a></sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏟️ <a href="https://github.com/surbhi-bhor/StadiumsETL">StadiumsETL</a></h3>
-      <p>Airflow pipeline that pulls stadium data from Wikipedia into Azure Data Lake Gen2, then through Data Factory and Synapse Analytics to a Tableau dashboard.</p>
-      <img src="https://img.shields.io/badge/Airflow-BFD9EA?style=flat-square" alt="Airflow">
-      <img src="https://img.shields.io/badge/Azure-BFD9EA?style=flat-square" alt="Azure">
-      <img src="https://img.shields.io/badge/Tableau-BFD9EA?style=flat-square" alt="Tableau">
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/surbhi-bhor/instacart-market-basket-analysis">Instacart Market Basket Analysis</a></h3>
-      <p>Star-schema model and exploratory analysis of customer behavior and product performance, visualized in a Tableau dashboard.</p>
-      <img src="https://img.shields.io/badge/Python-BFD9EA?style=flat-square" alt="Python">
-      <img src="https://img.shields.io/badge/Pandas-BFD9EA?style=flat-square" alt="Pandas">
-      <img src="https://img.shields.io/badge/Tableau-BFD9EA?style=flat-square" alt="Tableau">
-    </td>
-  </tr>
 </table>
 
 ## 🧰 Tech stack
